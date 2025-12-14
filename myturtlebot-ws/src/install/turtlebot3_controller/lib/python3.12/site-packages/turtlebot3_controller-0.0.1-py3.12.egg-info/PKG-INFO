@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: turtlebot3-controller
+Version: 0.0.1
+Summary: TurtleBot3 autonomous navigation controller
+Maintainer: student
+Maintainer-email: student@example.com
+License: Apache License 2.0

@@ -1,0 +1,47 @@
+[1.110s] Invoking command in '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/turtlebot3_controller/turtlebot3_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_controller build --build-base /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build install --record /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/install.log --single-version-externally-managed install_data
+[1.381s] running egg_info
+[1.381s] creating ../../build/turtlebot3_controller/turtlebot3_controller.egg-info
+[1.397s] writing ../../build/turtlebot3_controller/turtlebot3_controller.egg-info/PKG-INFO
+[1.398s] writing dependency_links to ../../build/turtlebot3_controller/turtlebot3_controller.egg-info/dependency_links.txt
+[1.398s] writing entry points to ../../build/turtlebot3_controller/turtlebot3_controller.egg-info/entry_points.txt
+[1.398s] writing requirements to ../../build/turtlebot3_controller/turtlebot3_controller.egg-info/requires.txt
+[1.398s] writing top-level names to ../../build/turtlebot3_controller/turtlebot3_controller.egg-info/top_level.txt
+[1.398s] writing manifest file '../../build/turtlebot3_controller/turtlebot3_controller.egg-info/SOURCES.txt'
+[1.430s] reading manifest file '../../build/turtlebot3_controller/turtlebot3_controller.egg-info/SOURCES.txt'
+[1.431s] writing manifest file '../../build/turtlebot3_controller/turtlebot3_controller.egg-info/SOURCES.txt'
+[1.431s] running build
+[1.431s] running build_py
+[1.432s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build
+[1.432s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib
+[1.432s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller
+[1.432s] copying turtlebot3_controller/velocity_controller.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller
+[1.433s] copying turtlebot3_controller/__init__.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller
+[1.433s] copying turtlebot3_controller/teleop.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller
+[1.433s] copying turtlebot3_controller/obstacle_analyzer.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller
+[1.433s] running install
+[1.438s] running install_lib
+[1.455s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller
+[1.455s] copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller/velocity_controller.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller
+[1.455s] copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller/__init__.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller
+[1.455s] copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller/teleop.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller
+[1.455s] copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build/lib/turtlebot3_controller/obstacle_analyzer.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller
+[1.455s] byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller/velocity_controller.py to velocity_controller.cpython-312.pyc
+[1.456s] byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller/__init__.py to __init__.cpython-312.pyc
+[1.457s] byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller/teleop.py to teleop.cpython-312.pyc
+[1.457s] byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller/obstacle_analyzer.py to obstacle_analyzer.cpython-312.pyc
+[1.458s] running install_data
+[1.458s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/ament_index
+[1.459s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/ament_index/resource_index
+[1.459s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/ament_index/resource_index/packages
+[1.459s] copying resource/turtlebot3_controller -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/ament_index/resource_index/packages
+[1.459s] copying package.xml -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/turtlebot3_controller
+[1.459s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/turtlebot3_controller/launch
+[1.460s] copying launch/autonomous_navigation.launch.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/share/turtlebot3_controller/launch
+[1.460s] running install_egg_info
+[1.476s] Copying ../../build/turtlebot3_controller/turtlebot3_controller.egg-info to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages/turtlebot3_controller-0.0.1-py3.12.egg-info
+[1.477s] running install_scripts
+[1.594s] Installing obstacle_analyzer script to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/turtlebot3_controller
+[1.594s] Installing teleop script to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/turtlebot3_controller
+[1.595s] Installing velocity_controller script to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/turtlebot3_controller
+[1.595s] writing list of installed files to '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/install.log'
+[1.623s] Invoked command in '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/turtlebot3_controller/turtlebot3_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/turtlebot3_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_controller build --build-base /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/build install --record /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/turtlebot3_controller/install.log --single-version-externally-managed install_data

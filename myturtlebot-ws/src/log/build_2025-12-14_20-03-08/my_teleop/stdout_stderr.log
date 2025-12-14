@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/my_teleop/my_teleop.egg-info
+writing ../build/my_teleop/my_teleop.egg-info/PKG-INFO
+writing dependency_links to ../build/my_teleop/my_teleop.egg-info/dependency_links.txt
+writing entry points to ../build/my_teleop/my_teleop.egg-info/entry_points.txt
+writing requirements to ../build/my_teleop/my_teleop.egg-info/requires.txt
+writing top-level names to ../build/my_teleop/my_teleop.egg-info/top_level.txt
+writing manifest file '../build/my_teleop/my_teleop.egg-info/SOURCES.txt'
+reading manifest file '../build/my_teleop/my_teleop.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/my_teleop/my_teleop.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop
+copying my_teleop/__init__.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop
+copying my_teleop/teleop.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop
+running install
+running install_lib
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop
+copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop/__init__.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop
+copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop/teleop.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop
+byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop/teleop.py to teleop.cpython-312.pyc
+running install_data
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index/resource_index
+creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index/resource_index/packages
+copying resource/my_teleop -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index/resource_index/packages
+copying package.xml -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/my_teleop
+running install_egg_info
+Copying ../build/my_teleop/my_teleop.egg-info to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop-0.0.0-py3.12.egg-info
+running install_scripts
+Installing teleop script to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/my_teleop
+writing list of installed files to '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/install.log'

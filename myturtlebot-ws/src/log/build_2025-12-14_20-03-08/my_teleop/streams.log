@@ -1,0 +1,38 @@
+[1.075s] Invoking command in '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/my_teleop': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_teleop build --build-base /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build install --record /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/install.log --single-version-externally-managed install_data
+[1.328s] running egg_info
+[1.329s] creating ../build/my_teleop/my_teleop.egg-info
+[1.353s] writing ../build/my_teleop/my_teleop.egg-info/PKG-INFO
+[1.354s] writing dependency_links to ../build/my_teleop/my_teleop.egg-info/dependency_links.txt
+[1.354s] writing entry points to ../build/my_teleop/my_teleop.egg-info/entry_points.txt
+[1.354s] writing requirements to ../build/my_teleop/my_teleop.egg-info/requires.txt
+[1.354s] writing top-level names to ../build/my_teleop/my_teleop.egg-info/top_level.txt
+[1.355s] writing manifest file '../build/my_teleop/my_teleop.egg-info/SOURCES.txt'
+[1.389s] reading manifest file '../build/my_teleop/my_teleop.egg-info/SOURCES.txt'
+[1.389s] adding license file 'LICENSE'
+[1.390s] writing manifest file '../build/my_teleop/my_teleop.egg-info/SOURCES.txt'
+[1.390s] running build
+[1.390s] running build_py
+[1.391s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build
+[1.391s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib
+[1.391s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop
+[1.391s] copying my_teleop/__init__.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop
+[1.391s] copying my_teleop/teleop.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop
+[1.391s] running install
+[1.396s] running install_lib
+[1.413s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop
+[1.413s] copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop/__init__.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop
+[1.413s] copying /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build/lib/my_teleop/teleop.py -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop
+[1.414s] byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop/__init__.py to __init__.cpython-312.pyc
+[1.414s] byte-compiling /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop/teleop.py to teleop.cpython-312.pyc
+[1.414s] running install_data
+[1.415s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index
+[1.415s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index/resource_index
+[1.415s] creating /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index/resource_index/packages
+[1.415s] copying resource/my_teleop -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/ament_index/resource_index/packages
+[1.416s] copying package.xml -> /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/share/my_teleop
+[1.416s] running install_egg_info
+[1.432s] Copying ../build/my_teleop/my_teleop.egg-info to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages/my_teleop-0.0.0-py3.12.egg-info
+[1.433s] running install_scripts
+[1.551s] Installing teleop script to /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/my_teleop
+[1.552s] writing list of installed files to '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/install.log'
+[1.580s] Invoked command in '/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/my_teleop' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/install/my_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_teleop build --build-base /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/build install --record /home/eheh1000/Bureau/ROB-POLYTECH/rob4/ROS/tp3-ros2/TP3_ROS/myturtlebot-ws/src/build/my_teleop/install.log --single-version-externally-managed install_data

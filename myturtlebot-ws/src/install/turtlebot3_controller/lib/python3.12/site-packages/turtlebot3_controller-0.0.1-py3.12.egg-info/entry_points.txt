@@ -1,0 +1,4 @@
+[console_scripts]
+obstacle_analyzer = turtlebot3_controller.obstacle_analyzer:main
+teleop = turtlebot3_controller.teleop:main
+velocity_controller = turtlebot3_controller.velocity_controller:main
